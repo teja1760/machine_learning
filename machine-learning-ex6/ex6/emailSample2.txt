@@ -1,0 +1,31 @@
+Hi t sai teja,
+Greetings from CodeChef!
+
+What an epic conclusion we had to May, with our SnackDown 2016 Qualifying Round. Over 13K teams from close to 100 countries took part in the qualifying round. We thank you and everyone associated with the contest for such an amazing start to the contest. We are sure you must be hungry for more programming action. So, to keep that programming fire burning as we step into June, we are ready with our June Challenge 2016.
+
+We have Vadym Prokopec making his debut on the problem setting panel with his first problem for CodeChef, so let’s all come together and give a warm welcome to him. We are sure you are going to enjoy the problems. And to make sure you do, let us give you the contest details.
+
+Start Date: 3rd June 2016, 15:00 Hrs IST
+Contest Duration: 10 Days
+Contest link: https://www.codechef.com/JUNE16
+Latest Updates:
+
+Russian Code Cup 2016
+Our friends at the Russian Code Cup are going international this time. It means, you have one more global programming extravaganza to be a part of. The contest is open to everyone, however, in order to be eligible for the finals you must be 18 years old at the beginning of the finals. So, fire up your programming engines and get ready for the Russian Code Cup. All the important details for the contest are given below:
+
+Contest Date: 5th June 2016, Sunday, 18:30 IST
+Contest Duration: 2 Hrs
+Contest Link: www.russiancodecup.ru
+That will be all from us here at CodeChef for now. We have a lot of exciting contest lined up in June, so make sure you have stocked your coolers with enough cold drinks for the summer. And if you have a stocked cooler, then just sit back and join in the action.
+
+See you at the contests.
+
+Godspeed
+
+Cheers,
+
+Team CodeChef
+
+www.codechef.com
+
+P.S.- All participants are expected to abide by the CodeChef Code Of Conduct.						
